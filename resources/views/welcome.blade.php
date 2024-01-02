@@ -831,7 +831,7 @@
 </head>
 
 <body class="antialiased">
-    
+
 
         <x-guest-layout>
     <!-- Session Status -->
